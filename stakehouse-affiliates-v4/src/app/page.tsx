@@ -101,7 +101,7 @@ export default function Page() {
                 The Official StakeHouse Affiliate Program
               </h1>
               <p className="mt-4 text-neutral-300 max-w-xl">
-                Fast onboarding, real-time reporting, lifetime revenue share and weekly payouts in crypto or fiat. Built in the clean finministry style you love.
+                Fast onboarding, real-time reporting, lifetime revenue share,CPA and weekly payouts in crypto or fiat. Built for professionals.
               </p>
               <div className="mt-6 flex flex-wrap gap-3">
                 <Button className="bg-rose-600 hover:bg-rose-500">
@@ -112,9 +112,9 @@ export default function Page() {
                 </Button>
               </div>
               <div className="mt-8 grid grid-cols-3 gap-6">
-                <Stat label="Avg. Approval" value="< 24h" />
-                <Stat label="EPC (30d)" value="$2.1+" />
-                <Stat label="Top GEOs" value="IE • NO • FI • DK" />
+                <Stat label="Avg. Approval" value="< 1h" />
+                <Stat label="EPC (30d)" value="$4.1+" />
+                <Stat label="Top GEOs" value="TIER1 • TIER2 •" />
               </div>
             </div>
             <div className="relative">
